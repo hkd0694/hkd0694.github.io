@@ -118,7 +118,7 @@ author:
       url: mailto:gksrudehd123@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://localhost:4000/"
+      url: "https://hkd0694.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hkd0694"
@@ -205,7 +205,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

@@ -1,5 +1,5 @@
 ---
-title: "????"
+title: "[Android] 아아"
 categories:
   - Edge Case
 tags:
@@ -10,7 +10,7 @@ tags:
   - markup
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+test 해보자.ㅋㅋ
 
 * Lists within lists do not break the ordered list numbering order
 * Your list styles go deep enough.
